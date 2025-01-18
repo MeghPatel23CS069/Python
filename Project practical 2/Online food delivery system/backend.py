@@ -4,7 +4,7 @@ import mysql.connector
 db_config = {
     "host": "localhost",           
     "user": "root",               # Root user
-    "password": "2810",           # Replace with your root password
+    "password": "   # Replace with your root password   ",           
     "database": "python_food_delivery_system"    # Replace with your database name
 }
 
